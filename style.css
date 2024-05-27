@@ -1,0 +1,57 @@
+.encabezado{
+
+    background: rgb(63,94,251);
+    background: linear-gradient(90deg, rgb(148, 159, 216) 0%, rgb(206, 147, 159) 100%);
+
+}
+
+.encabezado h1 h2 {
+    color:grey;
+    text-align: center;
+}
+
+.encabezado img{
+
+    height: 400px;
+}
+
+.rowlenguajes img{
+    transition: transform 0.5s ease-in-out;
+}
+
+.rowlenguajes img:hover{
+  transform: scale(1.3);
+}
+
+
+.filaform{
+    width: 60%;
+    
+}
+
+
+
+.h3{
+    font-style: italic;
+    color: black;
+    
+}
+
+
+
+
+
+input {
+    border:1px solid coral;
+    width:100%;
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+label {
+    font-weight: bold;
+    color: coral;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif
+}
+
