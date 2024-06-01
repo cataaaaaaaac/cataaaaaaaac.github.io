@@ -1,6 +1,5 @@
-# Titulo del proyecto
-## subtitulo del proyecto
+# Portafolio
+## Pagina weeb de clase d pensamiento computacional y programacion
 
-**Esto va en negrita**
-nnnnnnnnn.<br>
-pipolll
+
+En este portafolio hablare de mis habilidades, conocimientos y proyectos hechos   <br>
