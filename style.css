@@ -41,12 +41,16 @@ footer{
 
 
 
-.h3{
+h3{
     font-style: italic;
     color: black;
     
 }
 
+h1 h2{
+    font-family: 'Roboto', sans-serif;    
+    
+}
 
 
 
@@ -85,11 +89,22 @@ p {
   }
 
 
-  button{
+  .form button{
    
     font-family: "Homer Simpson UI";
     padding-bottom: 10px;
     padding-top: 10px;
     align-content: center;
     color: coral;
+    margin-top: auto;
+  }
+
+ 
+
+  .card {
+    width: 230px; 
+    height: 350px;
+    border: 1px solid black;
+    padding: 5px;
+    box-sizing: border-box; 
   }
