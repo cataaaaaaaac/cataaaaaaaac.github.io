@@ -89,14 +89,21 @@ p {
   }
 
 
-  button{
+  .boton{
    
     font-family: "Homer Simpson UI";
     padding-bottom: 10px;
     padding-top: 10px;
     align-content: center;
-    color: coral;
-    margin-top: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+   align-items: center;
+   color: black;
+   background-color: tomato;
+   margin-left: 300px;
+   margin-top: 30px;
+   margin-bottom: 20px;
+
   }
 
  
